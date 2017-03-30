@@ -14,7 +14,7 @@ public class CalculatorTest {
 
     @org.junit.Test
     public void subtract(){
-        assertEquals(8, c.subtract(10,2));
+        assertEquals(7, c.subtract(10,2));
     }
 
     @org.junit.Test
